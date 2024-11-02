@@ -23,7 +23,7 @@ There are many ways to tell a story through graphic visualizations; a picture is
 </script>
 
 ## Assignment 1: Visualizing Government Debt
-[visualizing debt](visualizing-government-debt)
+[visualizing debt](visualizing-government-debt.md)
 
 ## Assignment 2: Critique by Design
 *tba*
