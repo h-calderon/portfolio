@@ -22,6 +22,8 @@ This is a simple bar chart graph, comparing the national gross debt of each coun
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+
 The heatmap graph provides all the information for every year at a single glance. The diverging color scheme makes it simple to recognize which countries have high or low ratios for every single year. While the first bar graph is focused on a single year, here we can see the whole historic values for all the countries.
 
 ## Lollipop Chart
@@ -35,6 +37,8 @@ The heatmap graph provides all the information for every year at a single glance
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
 
 The lollipop chart focuses on the top 10 countries when sorted by highest debt to GDP ratio.The circles provide the valuable information, and the bar part of the graph makes it easier to connect each value to its respective country on the Y-axis. I decided to tell a story to highlight Japan's position on the list, since it's consistently high on the ranking. As with the original bar chart, the different color is eye-catching for anyone looking at this for the first time. The year filter to the right allows the viewer to filter and decide if they want to look at a particular year, or if they'd rather see the whole historic data grouped together. Finally, there's a small dotted trend line showing the average, just so it's easier to identify how much higher Japan is when compared to the average OECD country.
 
