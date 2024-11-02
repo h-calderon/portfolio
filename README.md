@@ -1,3 +1,5 @@
+| [home page](https://h-calderon.github.io/portfolio/) | [visualizing government debt](visualizing-government-debt.md) |
+
 # Portfolio
 This is a public portfolio to keep practicing my data visualization skills
 
