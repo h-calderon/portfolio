@@ -7,6 +7,6 @@ This is a simple bar chart graph, comparing the national gross debt of each coun
 
 ![bar chart gdp](debt-to-gdp.png)
 
-> Source: <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2021">Organisation for Economic Co-operation and Development</a>
+> Source: <a href="https://www.nytimes.com/2020/02/06/learning/whats-going-on-in-this-graph-engagement-ring-costs.html">New York Times, 2020</a>
 
 ## Heat Map
