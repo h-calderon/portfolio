@@ -3,6 +3,8 @@
 # An outline
 * Gambling mechanics are being normalized in videogames, most of which are accessible to minors
 * As a reader, I’d like to identify where this is happening so I can protect myself. I can do this by learning where these addictive mechanics are being used and how to avoid them
+
+![storyboard](storyboard.jpeg)
  
 Video games have always been a hobby of mine, for as long as I can remember. I’d even go as far as to say it runs in the family, since my parents once stayed up a whole night playing Super Mario Bros 3.
 
