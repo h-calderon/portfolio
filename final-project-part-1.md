@@ -4,7 +4,7 @@
 * Gambling mechanics are being normalized in videogames, most of which are accessible to minors
 * As a reader, I’d like to identify where this is happening so I can protect myself. I can do this by learning where these addictive mechanics are being used and how to avoid them
 
-![storyboard](storyboard.jpeg)
+![storyboard](storyboard.jpg)
  
 Video games have always been a hobby of mine, for as long as I can remember. I’d even go as far as to say it runs in the family, since my parents once stayed up a whole night playing Super Mario Bros 3.
 
@@ -16,14 +16,25 @@ As with everything that makes money, these methods are most likely here to stay.
 # Initial sketches
 
 ### First, a quick glance at how the gaming industry has grown in the past year with a bar chart
+
+
+![graph 1](graph1.jpg)
  
 ### Then a look at how its profits are divided with a stacked area chart:
+
+![graph 2](graph2.jpg)
  
 ### Then a Waffle type chart to show the low probability of actually “winning” when making these sort of purchases:
- 
+
+![graph 3](graph3.jpg)
+
 ### Show survey results from people interviewed in studies with a stacked bar chart (in %)
 
+![graph 4](graph4.jpg)
+
 ### And a correlation between these practices and future gambling tendencies in users, with a scatter box plot and a correlation line
+
+![graph 5](graph5.jpg)
  
 
 # The data
