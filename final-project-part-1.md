@@ -1,4 +1,4 @@
-| [home page](https://h-calderon.github.io/portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part-1.md) |
+| [home page](https://h-calderon.github.io/portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part-1.md) | [final project part 2](final-project-part-2.md) |
 
 # An outline
 * Gambling mechanics are being normalized in videogames, most of which are accessible to minors
