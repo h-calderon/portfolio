@@ -66,21 +66,14 @@ My target audience here is people who enjoy playing videogames, who are at risk 
 
 ## Interview script
 
-Text here!
-
 | Goal                              | Questions to Ask                                            |
 |-----------------------------------|-------------------------------------------------------------|
 |Make the graphs easy to understand |Do you have any questions or comments about what you've seen?|
 |The storyline should be cohesive   |Would you change the order of the topics?                    |
 |All the required parts are included|Is there anything you'd add or remove?                       |
 
-
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -90,15 +83,7 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+
 
