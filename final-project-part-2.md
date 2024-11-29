@@ -6,6 +6,7 @@ The general storyline goes something like this:
 
 ## The Gaming Industry of Today
 
+![Age of Gamers](storyboard.jpg)
 
 ## Who is playing ?
 
