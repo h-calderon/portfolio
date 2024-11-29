@@ -75,11 +75,12 @@ My target audience here is people who enjoy playing videogames, who are at risk 
 ## Interview findings
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-|||
-|||
-|||
+| Questions                                                   | Male, 31, Biologist            | Female, 28, Graphical Designer | Male, 33, Programmer           |
+|-------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------|
+|Do you have any questions or comments about what you've seen?||
+|Would you change the order of the topics?                    ||
+|Is there anything you'd add or remove?                       ||
+|Any additional comments?                                     ||
 
 
 # Identified changes for Part III
