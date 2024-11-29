@@ -6,47 +6,55 @@ The general storyline goes something like this:
 
 ## The Gaming Industry of Today
 
-
-![Popular genres of games](typegame.jpg)
+Show how it's an industry that keeps growing every 
 
 ![Growing Industry](gamersyears.jpg)
 
+What kind of games are popular?
+
+![Popular genres of games](typegame.jpg)
+
 ## Who is playing ?
 
+Who is the target audience for games ?
 
 ![Age of Gamers](age.jpg)
 
 ![Genre Distribution](malegamers.jpg)
 
-![Why do People play ?](whygame.jpg)
+Why do people enjoy playing?
 
+![Why do People play ?](whygame.jpg)
 
 ## High Revenue = High Interest
 
-
+Which countries are the highest earners in this industry?
 
 ![Revenue per Country](revenuecountry.jpg)
 
-
+How do they make money?
 
 ![Revenue per Console](revenuemobile.jpg)
 
-## Why do people spend their money ?
+## Why do people spend their money on these mechanics?
+
+These are the general motivations
 
 ![Why spend this extra money ?](motivation.jpg)
 
 ## What does this spending look like ?
 
-
+How much do they spend per day ?
 
 ![How much is spent per day on average?](spendday.jpg)
 
-
+How much do they spend per week ?
 
 ![How much is spent per week on average?](spendweek.jpg)
 
 ## What can we do ?
 
+What can be done ?
 
 ![Regulations per Country](regulations.jpg)
 
