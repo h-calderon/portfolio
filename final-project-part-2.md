@@ -6,18 +6,49 @@ The general storyline goes something like this:
 
 ## The Gaming Industry of Today
 
-![Age of Gamers](storyboard.jpg)
+
+![Popular genres of games](typegame.jpg)
+
+![Growing Industry](gamersyears.jpg)
 
 ## Who is playing ?
 
 
+![Age of Gamers](age.jpg)
+
+![Genre Distribution](malegamers.jpg)
+
+![Why do People play ?](whygame.jpg)
+
+
 ## High Revenue = High Interest
+
+
+
+![Revenue per Country](revenuecountry.jpg)
+
+
+
+![Revenue per Console](revenuemobile.jpg)
 
 ## Why do people spend their money ?
 
+![Why spend this extra money ?](motivation.jpg)
+
 ## What does this spending look like ?
 
+
+
+![How much is spent per day on average?](spendday.jpg)
+
+
+
+![How much is spent per week on average?](spendweek.jpg)
+
 ## What can we do ?
+
+
+![Regulations per Country](regulations.jpg)
 
 # User research 
 
