@@ -85,6 +85,8 @@ My target audience here is people who enjoy playing videogames, who are at risk 
 
 # Identified changes for Part III
 
-
+* Add definitions to what loot boxes and gambling are commonly defined as to the beginning
+* Switch to Shorthand so it's simpler to add qualitative research into the storytelling
+* Add some quotes or more detailed cases of people who have been afflicted by this issue
 
 
