@@ -75,12 +75,12 @@ My target audience here is people who enjoy playing videogames, who are at risk 
 ## Interview findings
 
 
-| Questions                                                   | Male, 31, Biologist            | Female, 28, Graphical Designer | Male, 33, Programmer           |
-|-------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------|
-|Do you have any questions or comments about what you've seen?||
-|Would you change the order of the topics?                    ||
-|Is there anything you'd add or remove?                       ||
-|Any additional comments?                                     ||
+| Questions                                                   | Male, 31, Biologist                                                                     | Female, 28, Graphical Designer                                                                     | Male, 33, Programmer                                                           |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|Do you have any questions or comments about what you've seen?|It's simple to understand                                                                |I feel like this would benefit from more text                                                       |Most of it are things I imagined, but it's interesting to have a confirmation   |
+|Would you change the order of the topics?                    |Maybe add some definitions at the beginning                                              |I can see a clear pattern: beginning, middle, end                                                   |It's fine this way                                                              |
+|Is there anything you'd add or remove?                       |As I said, define some topics that might not be general knowledge. Like what a lootbox is|Maybe find some more cases to add to the problematic. Personal stories are more relatable than stats|Are regulations the only solution? Seems a bit inefficient                      |
+|Any additional comments?                                     |No, I think I said it all                                                                |It looks good, just add those things I mentioned and I think you're good to go                      |Not really                                                                      |
 
 
 # Identified changes for Part III
