@@ -68,12 +68,11 @@ My target audience here is people who enjoy playing videogames, who are at risk 
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|Make the graphs easy to understand|                  |
-|      |                  |
-|      |                  |
-
+| Goal                              | Questions to Ask                                            |
+|-----------------------------------|-------------------------------------------------------------|
+|Make the graphs easy to understand |Do you have any questions or comments about what you've seen?|
+|The storyline should be cohesive   |Would you change the order of the topics?                    |
+|All the required parts are included|Is there anything you'd add or remove?                       |
 
 
 Text here!
@@ -85,9 +84,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|||
+|||
+|||
 
 
 # Identified changes for Part III
