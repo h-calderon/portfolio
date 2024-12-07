@@ -28,4 +28,4 @@ Based on the recommendations and feedback, I decided to switch presentation meth
 
 The structure of the presentation remained very similar to what the initial outline was, except this time it included more text. I also included quotes to show how this affected real people, what their motivations were, and the real crux of the issue: how their spending habits were becoming pretty similar to self-described problem gamblers.
 
-All around, I'm pretty happy with the result. You can see it here: https://carnegiemellon.shorthandstories.com/pay-to-play/index.html 
+All around, I'm pretty happy with the result. You can see it here: [https://carnegiemellon.shorthandstories.com/pay-to-play/index.html](https://carnegiemellon.shorthandstories.com/pay-to-play/index.html)
