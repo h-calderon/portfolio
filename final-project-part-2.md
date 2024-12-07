@@ -1,4 +1,4 @@
-| [home page](https://h-calderon.github.io/portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part-1.md) | [final project part 2](final-project-part-2.md) |
+| [home page](https://h-calderon.github.io/portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part-1.md) | [final project part 2](final-project-part-2.md) | [final project part 3](final-project-part-3.md) |
 
 # Wireframes / storyboards
 
